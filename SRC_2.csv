@@ -1,0 +1,101 @@
+SRC_2_ACCT_ID,FIRST_NAME,LAST_NAME,CLINIC_NAME,ACCT_TYPE,ADDR_LINE_1,ADDR_LINE_2,CITY,STATE,POSTAL_CD
+SRC_2-900,Judy,Gonzalez,Valley Clinic,HCO,2592 Lake Rd,Suite 229,Dallas,CA,53515
+SRC_2-901,Victor,Johnson,Summit Clinic,HCP,8717 Lake Rd,,Chicago,TX,95823
+SRC_2-902,Alice,Johnson,Summit Clinic,HCO,5646 Park Ave,Suite 765,Los Angeles,MI,53065
+SRC_2-903,Victor,Hernandez,Prime Clinic,HCO,5288 Lake Rd,Suite 136,San Jose,CA,40771
+SRC_2-904,Ivan,Hernandez,Family Clinic,HCP,1580 Washington Blvd,Suite 878,Los Angeles,CA,31805
+SRC_2-905,Judy,Jones,Health Clinic,HCP,5414 Main St,,Philadelphia,TX,29080
+SRC_2-906,Bob,Rodriguez,Valley Clinic,HCP,2885 Pine St,,San Antonio,CA,99539
+SRC_2-907,Bob,Davis,General Clinic,HCP,3904 Lake Rd,Suite 570,Phoenix,OH,11231
+SRC_2-908,Peggy,Gonzalez,Summit Clinic,HCO,9055 Pine St,,Philadelphia,CA,49210
+SRC_2-909,Ivan,Miller,Family Clinic,HCO,5049 Maple Ave,Suite 594,Los Angeles,TX,59986
+SRC_2-910,Heidi,Garcia,General Clinic,HCO,4937 Main St,Suite 774,San Antonio,AZ,11061
+SRC_2-911,Heidi,Hernandez,Health Clinic,HCO,4789 Maple Ave,Suite 460,Houston,OH,34920
+SRC_2-912,Heidi,Jones,Care Clinic,HCP,745 Cedar Ln,Suite 134,San Jose,PA,27224
+SRC_2-913,Jane,Jones,City Clinic,HCO,2977 Maple Ave,,Dallas,PA,79579
+SRC_2-914,Grace,Jones,Care Clinic,HCO,7994 Cedar Ln,Suite 446,Los Angeles,CA,19869
+SRC_2-915,Alice,Gonzalez,Medical Clinic,HCO,9231 Elm St,,San Antonio,NY,44663
+SRC_2-916,Grace,Johnson,Summit Clinic,HCO,4395 Park Ave,,Philadelphia,CA,98452
+SRC_2-917,Bob,Davis,Health Clinic,HCO,3726 Oak St,Suite 575,Phoenix,OH,63516
+SRC_2-918,Jane,Williams,Health Clinic,HCP,5086 Lake Rd,,Houston,TX,27781
+SRC_2-919,Eve,Davis,City Clinic,HCO,9722 Pine St,Suite 770,Los Angeles,MI,74139
+SRC_2-920,Heidi,Miller,Family Clinic,HCP,6170 Maple Ave,,Houston,MI,57537
+SRC_2-921,Jane,Hernandez,City Clinic,HCO,1092 Washington Blvd,,Los Angeles,MI,69600
+SRC_2-922,Jane,Hernandez,Medical Clinic,HCP,928 Elm St,,Chicago,WA,84000
+SRC_2-923,Bob,Johnson,Prime Clinic,HCP,9707 Maple Ave,Suite 338,Philadelphia,WA,29340
+SRC_2-924,Mallory,Martinez,Health Clinic,HCO,2470 Pine St,Suite 278,Los Angeles,OH,13379
+SRC_2-925,Alice,Smith,City Clinic,HCP,9747 Elm St,,Phoenix,NY,26614
+SRC_2-926,Judy,Miller,Prime Clinic,HCP,1141 Lake Rd,,Philadelphia,TX,87812
+SRC_2-927,Jane,Davis,Prime Clinic,HCP,810 Hill Ct,,New York,NY,72781
+SRC_2-928,Victor,Miller,Valley Clinic,HCP,8132 Lake Rd,,Los Angeles,PA,89730
+SRC_2-929,Alice,Johnson,Care Clinic,HCO,9690 Hill Ct,Suite 490,San Jose,TX,48652
+SRC_2-930,Frank,Rodriguez,General Clinic,HCO,1724 Oak St,Suite 766,Dallas,FL,38183
+SRC_2-931,Eve,Davis,Medical Clinic,HCO,5653 Lake Rd,,Los Angeles,PA,65936
+SRC_2-932,Diana,Hernandez,Family Clinic,HCO,2600 Lake Rd,,Los Angeles,CA,66606
+SRC_2-933,Jane,Lopez,City Clinic,HCP,9215 Main St,Suite 675,Dallas,PA,97819
+SRC_2-934,Jane,Miller,City Clinic,HCO,942 Cedar Ln,Suite 460,Los Angeles,CA,76507
+SRC_2-935,Bob,Williams,Summit Clinic,HCP,1873 Elm St,Suite 476,Los Angeles,WA,46512
+SRC_2-936,Heidi,Brown,Valley Clinic,HCP,4481 Main St,,Phoenix,PA,56009
+SRC_2-937,John,Williams,Care Clinic,HCO,1240 Pine St,Suite 131,Los Angeles,FL,79531
+SRC_2-938,Bob,Miller,Valley Clinic,HCO,5685 Pine St,,Philadelphia,WA,84395
+SRC_2-939,Heidi,Johnson,Health Clinic,HCP,2679 Park Ave,,Los Angeles,AZ,68079
+SRC_2-940,Ivan,Miller,Summit Clinic,HCO,6885 Cedar Ln,,Dallas,CA,55242
+SRC_2-941,Eve,Johnson,Family Clinic,HCO,8733 Cedar Ln,,San Antonio,CA,17180
+SRC_2-942,John,Brown,Family Clinic,HCP,2348 Cedar Ln,,Los Angeles,NY,75193
+SRC_2-943,Judy,Miller,Care Clinic,HCP,6329 Hill Ct,Suite 612,Dallas,MI,97562
+SRC_2-944,Mallory,Garcia,Wellness Clinic,HCO,793 Washington Blvd,,Los Angeles,MI,51033
+SRC_2-945,Heidi,Miller,General Clinic,HCO,6943 Cedar Ln,,New York,PA,32527
+SRC_2-946,Mallory,Martinez,Summit Clinic,HCO,1543 Washington Blvd,Suite 349,San Antonio,CA,62487
+SRC_2-947,Grace,Johnson,Valley Clinic,HCO,5662 Maple Ave,,Chicago,CA,76910
+SRC_2-948,Ivan,Johnson,Prime Clinic,HCP,5824 Elm St,Suite 760,Chicago,TX,23474
+SRC_2-949,Alice,Jones,Medical Clinic,HCP,9969 Pine St,Suite 771,Los Angeles,IL,92306
+SRC_2-950,Frank,Davis,General Clinic,HCO,9348 Park Ave,,Philadelphia,IL,67640
+SRC_2-951,Jane,Davis,Summit Clinic,HCO,4600 Park Ave,,Dallas,CA,50685
+SRC_2-952,Frank,Davis,Health Clinic,HCP,6141 Cedar Ln,,Los Angeles,CA,87867
+SRC_2-953,Grace,Miller,Summit Clinic,HCP,7468 Park Ave,Suite 429,San Jose,CA,75715
+SRC_2-954,Alice,Smith,Summit Clinic,HCP,5726 Oak St,Suite 276,New York,TX,67377
+SRC_2-955,Frank,Rodriguez,Prime Clinic,HCP,6062 Elm St,Suite 496,San Antonio,WA,54350
+SRC_2-956,Ivan,Martinez,Health Clinic,HCO,1179 Elm St,,San Antonio,AZ,43029
+SRC_2-957,Judy,Hernandez,General Clinic,HCP,5561 Oak St,Suite 244,Philadelphia,AZ,95990
+SRC_2-958,Judy,Hernandez,Valley Clinic,HCP,9849 Oak St,,San Antonio,OH,53054
+SRC_2-959,Victor,Williams,Prime Clinic,HCP,7037 Hill Ct,,Philadelphia,AZ,33627
+SRC_2-960,Bob,Garcia,Summit Clinic,HCP,3811 Pine St,,Phoenix,MI,23256
+SRC_2-961,Grace,Gonzalez,Prime Clinic,HCP,5617 Park Ave,,San Antonio,IL,31266
+SRC_2-962,Alice,Lopez,General Clinic,HCP,7270 Main St,,Houston,CA,90031
+SRC_2-963,Charlie,Gonzalez,Summit Clinic,HCP,8849 Maple Ave,,San Diego,MI,35430
+SRC_2-964,Diana,Hernandez,General Clinic,HCO,7664 Cedar Ln,Suite 614,Dallas,TX,31241
+SRC_2-965,Victor,Brown,General Clinic,HCP,4196 Main St,Suite 480,Dallas,CA,77621
+SRC_2-966,Victor,Johnson,Family Clinic,HCP,2726 Cedar Ln,,Dallas,IL,67340
+SRC_2-967,Jane,Brown,Summit Clinic,HCO,536 Washington Blvd,,Dallas,PA,40903
+SRC_2-968,Eve,Johnson,City Clinic,HCP,561 Elm St,Suite 831,Philadelphia,WA,29142
+SRC_2-969,Alice,Smith,Family Clinic,HCO,2373 Lake Rd,,New York,CA,12490
+SRC_2-970,Charlie,Brown,Care Clinic,HCO,1921 Cedar Ln,,Los Angeles,NY,41252
+SRC_2-971,Eve,Hernandez,General Clinic,HCO,1129 Oak St,Suite 611,San Jose,TX,12154
+SRC_2-972,Ivan,Rodriguez,General Clinic,HCP,2452 Cedar Ln,,San Jose,PA,41531
+SRC_2-973,Heidi,Miller,Care Clinic,HCP,8676 Elm St,,Dallas,TX,76496
+SRC_2-974,Mallory,Rodriguez,Prime Clinic,HCP,6497 Lake Rd,,San Antonio,PA,43246
+SRC_2-975,Judy,Smith,City Clinic,HCP,5749 Maple Ave,Suite 743,Los Angeles,WA,86271
+SRC_2-976,Judy,Gonzalez,City Clinic,HCP,826 Elm St,Suite 758,Chicago,MI,99742
+SRC_2-977,Frank,Lopez,Summit Clinic,HCP,2309 Oak St,Suite 568,New York,AZ,36422
+SRC_2-978,John,Gonzalez,Medical Clinic,HCP,5270 Cedar Ln,Suite 656,San Diego,AZ,14799
+SRC_2-979,Mallory,Hernandez,Medical Clinic,HCO,5948 Main St,Suite 439,Phoenix,CA,58237
+SRC_2-980,Eve,Miller,Summit Clinic,HCO,5654 Pine St,,San Diego,PA,78062
+SRC_2-981,Charlie,Gonzalez,Wellness Clinic,HCO,1393 Washington Blvd,Suite 284,Dallas,AZ,52101
+SRC_2-982,Jane,Johnson,City Clinic,HCO,5121 Lake Rd,Suite 536,Chicago,FL,68183
+SRC_2-983,Diana,Davis,Health Clinic,HCO,7226 Cedar Ln,Suite 158,Los Angeles,OH,93560
+SRC_2-984,Eve,Garcia,Prime Clinic,HCP,610 Pine St,Suite 794,San Diego,NY,26545
+SRC_2-985,Jane,Brown,City Clinic,HCO,6372 Park Ave,,Chicago,OH,68972
+SRC_2-986,Diana,Garcia,Summit Clinic,HCP,9503 Pine St,Suite 507,Philadelphia,OH,46528
+SRC_2-987,Bob,Johnson,Health Clinic,HCP,8276 Hill Ct,,Dallas,CA,44311
+SRC_2-988,Mallory,Jones,Summit Clinic,HCP,4778 Lake Rd,,Chicago,MI,19706
+SRC_2-989,Frank,Williams,Summit Clinic,HCP,5336 Elm St,Suite 663,Dallas,AZ,49315
+SRC_2-990,Victor,Williams,Care Clinic,HCO,8435 Maple Ave,,Houston,WA,28202
+SRC_2-991,Bob,Gonzalez,Summit Clinic,HCP,6012 Hill Ct,Suite 578,Dallas,IL,90209
+SRC_2-992,Peggy,Johnson,Wellness Clinic,HCO,6623 Lake Rd,Suite 887,San Antonio,MI,85353
+SRC_2-993,Jane,Williams,City Clinic,HCP,7472 Lake Rd,Suite 452,Chicago,MI,82260
+SRC_2-994,Ivan,Martinez,Care Clinic,HCP,7188 Hill Ct,Suite 156,Los Angeles,TX,30056
+SRC_2-995,Charlie,Williams,Care Clinic,HCO,3794 Elm St,Suite 631,Phoenix,MI,20336
+SRC_2-996,Charlie,Brown,Prime Clinic,HCO,2150 Cedar Ln,Suite 195,Dallas,OH,32103
+SRC_2-997,Heidi,Martinez,Care Clinic,HCP,5631 Park Ave,,New York,CA,15958
+SRC_2-998,Ivan,Gonzalez,General Clinic,HCO,3553 Park Ave,,New York,CA,92203
+SRC_2-999,Grace,Jones,Family Clinic,HCO,4112 Washington Blvd,,Los Angeles,FL,17852

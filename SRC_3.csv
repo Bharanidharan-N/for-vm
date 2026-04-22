@@ -1,0 +1,101 @@
+SRC_3_ID,HOSP_NAME,ADDR_LINE_1,ADDR_LINE_2,CITY,STATE,ZIPCODE,STATE_LIC
+W-555,Summit Hospital,6909 Lake Rd,,Philadelphia,IL,89516,IL-250647
+W-556,City Hospital,5758 Washington Blvd,,Philadelphia,PA,77499,PA-688933
+W-557,City Hospital,4060 Lake Rd,,San Diego,CA,42495,CA-247720
+W-558,Health Hospital,4854 Washington Blvd,Bldg B,Houston,CA,30932,CA-952993
+W-559,General Hospital,5223 Maple Ave,Bldg B,Dallas,PA,71186,PA-622987
+W-560,Summit Hospital,479 Oak St,Bldg C,San Diego,AZ,41552,AZ-325595
+W-561,City Hospital,897 Main St,,San Jose,CA,95755,CA-805188
+W-562,Family Hospital,8893 Main St,Bldg B,Chicago,CA,44664,CA-862847
+W-563,Valley Hospital,6095 Main St,,San Jose,PA,83638,PA-304110
+W-564,Prime Hospital,4828 Oak St,,San Diego,PA,82070,PA-393308
+W-565,General Hospital,2046 Pine St,Bldg B,Philadelphia,MI,54444,MI-684929
+W-566,Care Hospital,3361 Park Ave,Bldg C,New York,PA,15938,PA-140804
+W-567,City Hospital,7861 Hill Ct,,San Jose,IL,77568,IL-246570
+W-568,General Hospital,5318 Pine St,,San Jose,PA,49221,PA-722565
+W-569,Prime Hospital,8451 Hill Ct,,San Jose,PA,49294,PA-597960
+W-570,Health Hospital,6135 Elm St,Bldg B,San Jose,MI,50327,MI-935457
+W-571,Health Hospital,9879 Lake Rd,,San Jose,FL,85711,FL-338596
+W-572,Health Hospital,9660 Lake Rd,,San Jose,FL,59832,FL-254954
+W-573,Medical Hospital,617 Park Ave,Bldg A,Houston,MI,12482,MI-562462
+W-574,Valley Hospital,2581 Washington Blvd,Bldg B,Dallas,PA,90147,PA-594514
+W-575,Health Hospital,2362 Hill Ct,,Philadelphia,MI,96799,MI-601608
+W-576,Valley Hospital,5240 Pine St,,Dallas,TX,54869,TX-672808
+W-577,Family Hospital,8032 Maple Ave,Bldg B,Dallas,PA,49124,PA-335790
+W-578,Family Hospital,3496 Lake Rd,,Philadelphia,AZ,83464,AZ-934042
+W-579,Family Hospital,4815 Oak St,Bldg C,San Antonio,FL,61712,FL-958130
+W-580,Care Hospital,4858 Main St,,Los Angeles,PA,55398,PA-563864
+W-581,Family Hospital,7949 Maple Ave,,Dallas,OH,45537,OH-689318
+W-582,Family Hospital,2349 Oak St,Bldg C,Houston,FL,41779,FL-153231
+W-583,Prime Hospital,3797 Maple Ave,,San Antonio,OH,53292,OH-852204
+W-584,Wellness Hospital,2352 Main St,Bldg A,San Antonio,CA,95575,CA-598807
+W-585,Medical Hospital,4806 Elm St,,New York,CA,21725,CA-783984
+W-586,Medical Hospital,8867 Main St,Bldg A,San Antonio,CA,33040,CA-138105
+W-587,Valley Hospital,8216 Pine St,Bldg B,New York,MI,11214,MI-412886
+W-588,General Hospital,1858 Elm St,,Dallas,CA,78723,CA-617904
+W-589,Prime Hospital,7768 Cedar Ln,,Los Angeles,IL,53343,IL-270387
+W-590,Summit Hospital,4315 Pine St,,Philadelphia,FL,48669,FL-695361
+W-591,Medical Hospital,2975 Park Ave,Bldg B,San Antonio,OH,77538,OH-443856
+W-592,Valley Hospital,1662 Pine St,Bldg B,Philadelphia,CA,42512,CA-107161
+W-593,Valley Hospital,3958 Lake Rd,Bldg B,Phoenix,AZ,86344,AZ-857997
+W-594,Health Hospital,4385 Elm St,Bldg A,Los Angeles,CA,71000,CA-421709
+W-595,Valley Hospital,8333 Cedar Ln,Bldg C,Phoenix,IL,58174,IL-744481
+W-596,Medical Hospital,2288 Lake Rd,,San Jose,TX,58971,TX-536045
+W-597,Prime Hospital,7814 Hill Ct,Bldg A,Houston,FL,99173,FL-891401
+W-598,Wellness Hospital,8709 Lake Rd,Bldg B,Los Angeles,CA,83946,CA-217659
+W-599,Prime Hospital,8381 Maple Ave,Bldg A,Chicago,NY,53007,NY-995993
+W-600,Summit Hospital,2004 Maple Ave,Bldg B,Los Angeles,TX,76895,TX-567122
+W-601,Health Hospital,7529 Pine St,Bldg B,San Jose,WA,17567,WA-685941
+W-602,Family Hospital,456 Washington Blvd,,New York,CA,38560,CA-706403
+W-603,Health Hospital,7041 Elm St,Bldg C,New York,CA,19046,CA-595002
+W-604,Family Hospital,6798 Pine St,Bldg C,San Antonio,NY,59081,NY-501058
+W-605,Valley Hospital,6254 Oak St,Bldg C,Dallas,CA,27431,CA-785280
+W-606,City Hospital,2043 Pine St,Bldg B,Dallas,MI,26691,MI-863214
+W-607,Health Hospital,472 Cedar Ln,,Dallas,TX,65591,TX-657772
+W-608,Medical Hospital,4155 Lake Rd,,Phoenix,TX,34704,TX-860242
+W-609,Wellness Hospital,627 Washington Blvd,Bldg A,Houston,WA,37011,WA-170559
+W-610,General Hospital,650 Lake Rd,Bldg C,New York,CA,42077,CA-876513
+W-611,Valley Hospital,7291 Maple Ave,Bldg A,Chicago,NY,76046,NY-403314
+W-612,General Hospital,5324 Park Ave,Bldg C,Philadelphia,TX,41051,TX-416422
+W-613,Prime Hospital,3721 Washington Blvd,,New York,IL,82970,IL-720407
+W-614,Care Hospital,7099 Hill Ct,,Philadelphia,FL,94320,FL-803953
+W-615,Prime Hospital,5322 Washington Blvd,,Phoenix,TX,59343,TX-292811
+W-616,Prime Hospital,7858 Maple Ave,Bldg B,Chicago,WA,70689,WA-160423
+W-617,Valley Hospital,6924 Hill Ct,Bldg B,Houston,TX,43422,TX-313214
+W-618,Wellness Hospital,7469 Elm St,,Houston,PA,16755,PA-381502
+W-619,General Hospital,9978 Main St,Bldg A,San Jose,TX,98008,TX-685997
+W-620,Summit Hospital,3522 Elm St,,New York,TX,37762,TX-299254
+W-621,Wellness Hospital,7946 Maple Ave,Bldg C,Houston,FL,61987,FL-350956
+W-622,City Hospital,4737 Washington Blvd,,Philadelphia,TX,50425,TX-374267
+W-623,Prime Hospital,8247 Lake Rd,,San Diego,PA,51973,PA-312994
+W-624,City Hospital,6881 Main St,Bldg A,Chicago,PA,12125,PA-373441
+W-625,General Hospital,9588 Washington Blvd,,Houston,TX,53236,TX-341192
+W-626,General Hospital,4126 Lake Rd,Bldg C,Philadelphia,TX,43728,TX-900441
+W-627,Summit Hospital,8137 Lake Rd,,Philadelphia,MI,32185,MI-246757
+W-628,Prime Hospital,8100 Pine St,Bldg C,New York,FL,78674,FL-135466
+W-629,Wellness Hospital,894 Main St,,Houston,MI,18908,MI-841521
+W-630,Health Hospital,3683 Hill Ct,,New York,IL,90980,IL-768706
+W-631,General Hospital,8016 Lake Rd,,Dallas,OH,82305,OH-531319
+W-632,Health Hospital,8773 Cedar Ln,Bldg B,New York,NY,75826,NY-952657
+W-633,Valley Hospital,3037 Oak St,Bldg C,Chicago,FL,41584,FL-301255
+W-634,Prime Hospital,4235 Elm St,,San Antonio,CA,20357,CA-491172
+W-635,Summit Hospital,9356 Maple Ave,Bldg A,Phoenix,TX,99658,TX-968286
+W-636,Wellness Hospital,619 Oak St,,San Antonio,MI,82443,MI-599127
+W-637,Health Hospital,2907 Oak St,,San Antonio,NY,94529,NY-922478
+W-638,General Hospital,1662 Hill Ct,Bldg A,Houston,PA,84289,PA-598598
+W-639,Health Hospital,1318 Cedar Ln,Bldg C,New York,AZ,33508,AZ-991737
+W-640,Health Hospital,3494 Park Ave,,San Antonio,PA,20084,PA-413814
+W-641,General Hospital,4039 Park Ave,Bldg B,Dallas,IL,53480,IL-502491
+W-642,Care Hospital,1384 Hill Ct,Bldg B,New York,WA,22803,WA-558320
+W-643,Wellness Hospital,5680 Park Ave,Bldg C,San Antonio,TX,52778,TX-131064
+W-644,Family Hospital,7481 Lake Rd,,Dallas,OH,59207,OH-552825
+W-645,General Hospital,6327 Oak St,Bldg B,Houston,IL,19634,IL-186023
+W-646,Care Hospital,6325 Pine St,Bldg B,Philadelphia,AZ,23965,AZ-195966
+W-647,Family Hospital,7386 Elm St,Bldg A,Chicago,NY,21442,NY-296494
+W-648,Summit Hospital,9225 Hill Ct,Bldg A,New York,TX,21746,TX-471106
+W-649,Wellness Hospital,9880 Park Ave,Bldg B,New York,TX,48253,TX-533911
+W-650,Wellness Hospital,9267 Maple Ave,Bldg A,San Antonio,TX,32216,TX-245584
+W-651,Family Hospital,4497 Lake Rd,,Chicago,AZ,66973,AZ-389366
+W-652,Family Hospital,8033 Oak St,,Houston,TX,91924,TX-619886
+W-653,General Hospital,3303 Lake Rd,,Phoenix,CA,10887,CA-514913
+W-654,General Hospital,6324 Elm St,,San Antonio,PA,95332,PA-723266
